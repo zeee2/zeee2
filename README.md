@@ -113,7 +113,7 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeee2&theme=solarized_dark">
   </a>
   <a href="https://github.com/Platane/snk">
-    <img src="https://cdn.statically.io/gh/ZEEEActions/README/main/snk.svg"/>
+    <img src="https://raw.githubusercontent.com/ZEEEActions/README/main/snk.svg"/>
   </a>
 </p>
 
