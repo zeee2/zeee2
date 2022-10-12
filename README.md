@@ -9,7 +9,7 @@
   </a>
   </br>
   <a href="https://discordapp.com/users/637921223312932895">
-    <img src="https://img.shields.io/badge/Discord-ZEEE＃4444-7289DA?style=for-the-badge&logo=discord" alt="discord"/>
+    <img src="https://img.shields.io/badge/Discord-Z3R0＃4444-7289DA?style=for-the-badge&logo=discord" alt="discord"/>
   </a>
   <a href="https://www.twitch.tv/ner1na">
     <img src="https://img.shields.io/badge/Twitch-ner1na-purple?style=for-the-badge&logo=twitch" alt="twitch"/>
