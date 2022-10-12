@@ -89,6 +89,9 @@
   Frameworks
   </br>
   </br>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/React.js-35495E?style=for-the-badge&logo=react" alt="vue.js"/>
+  </a>
   <a href="https://vuejs.org/">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="vue.js"/>
   </a>
