@@ -15,8 +15,21 @@
     <img src="https://img.shields.io/badge/Twitch-ner1na-purple?style=for-the-badge&logo=twitch" alt="twitch"/>
   </a>
   </br>
+</p>
+
+---
+
+<p align="center">
+  Projects
   </br>
-  <img src="https://lanyard-profile-readme.vercel.app/api/637921223312932895" />
+  </br>
+  <a href="https://github.com/Nerinyan">
+    Nerinyan: osu! beatmap mirror
+  </a>
+  </br>
+  <a href="https://github.com/osuDebian">
+    osu!Debian
+  </a>
 </p>
 
 ---
