@@ -20,7 +20,7 @@
 ---
 
 <p align="center">
-  Projects
+  Participated/Contributed projects
   </br>
   </br>
   <a href="https://github.com/Nerinyan">
@@ -29,6 +29,10 @@
   </br>
   <a href="https://github.com/osuDebian">
     osu!Debian
+  </a>
+  </br>
+  <a href="https://github.com/osuSSOT">
+    SSOT
   </a>
 </p>
 
