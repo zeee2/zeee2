@@ -132,15 +132,8 @@
   <a href="https://github-profile-summary-cards.vercel.app">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zeee2&theme=solarized_dark">
   </a>
-  <a href="https://github.com/Platane/snk">
-    <img src="https://raw.githubusercontent.com/ZEEEActions/README/main/snk.svg"/>
+  </br>
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNerina1241&count_bg=%235CCBB2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
   </a>
-</p>
-
-<p align="right">
-
-<a href="https://hits.seeyoufarm.com">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNerina1241&count_bg=%235CCBB2&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true" />
-</a>
-
 </p>
